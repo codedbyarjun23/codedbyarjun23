@@ -32,9 +32,14 @@
 ---
 
 ### 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codedbyarjun23&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="160"/>
-  <img src="https://github-readme-streak-stats.vercel.app?user=codedbyarjun23&theme=tokyonight&hide_border=true&border_radius=12" height="160"/>
+  <img src="https://github-readme-stats-codestackr.vercel.app/api?username=codedbyarjun23&show_icons=true&theme=radical&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=codedbyarjun23&theme=radical&hide_border=true&border_radius=10" height="165" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-codestackr.vercel.app/api/top-langs/?username=codedbyarjun23&layout=compact&theme=radical&hide_border=true&border_radius=10" height="165" alt="Top Languages" />
 </p>
 
 ---
