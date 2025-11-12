@@ -32,14 +32,13 @@
 ---
 
 ### 📊 GitHub Stats  
-
 <p align="center">
-  <img src="https://github-readme-stats-codestackr.vercel.app/api?username=codedbyarjun23&show_icons=true&theme=radical&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.vercel.app?user=codedbyarjun23&theme=radical&hide_border=true&border_radius=10" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codedbyarjun23&show_icons=true&theme=radical&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&cache_seconds=1800" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=codedbyarjun23&theme=radical&hide_border=true&border_radius=12" height="165" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-codestackr.vercel.app/api/top-langs/?username=codedbyarjun23&layout=compact&theme=radical&hide_border=true&border_radius=10" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyarjun23&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=8&cache_seconds=1800" height="165" alt="Top Languages" />
 </p>
 
 ---
