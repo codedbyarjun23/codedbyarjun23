@@ -53,13 +53,13 @@
 
 ---
 
-### 🎮 Just for Fun  
+### 🎮 Slow Down. Recharge. Repeat.
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjA5dm9sYjZoMng4eTUzNTg5d3RlMXFvcGo4MG5tcHo1Ym5kdnI2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/piFGZ3Vxk2NHOAPgE3/giphy.gif" width="320" alt="Retro Coding">
 </p>
 
 <p align="center">
-  <i>Because even code needs a little fun sometimes 🎧</i>
+  <i>Because even code needs a little fun sometimes.</i>
 </p>
 
 ---
