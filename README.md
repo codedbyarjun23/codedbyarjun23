@@ -77,8 +77,6 @@
 
 ## 📊 GitHub Stats
 
-> ✨ Glassy gradient cards, dark theme & centered layout.
-
 <div align="center">
 
   <img 
