@@ -1,8 +1,4 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://media2.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif" width="60%" />
-</p>
-
 <h1 align="center">
   👋 Hey, I'm <span style="color:#00BFFF;">Arjun Raj</span>
 </h1>
@@ -27,20 +23,28 @@ and sharpening my problem-solving skills.
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,html,css,js&theme=dark" />
 </p>
 
+---
+
 ### **Frameworks & Libraries**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind&theme=dark" />
 </p>
+
+---
 
 ### **Databases**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" />
 </p>
 
+---
+
 ### **Tools**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 </p>
+
+---
 
 ### **Design**
 <p align="center">
