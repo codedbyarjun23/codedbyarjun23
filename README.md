@@ -1,6 +1,6 @@
 <!-- Top Banner GIF -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif" width="100%" alt="Tech Banner" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXl5N3A3dWdudGMyanU5YTlzZGxseTB4MXA0YjR4aXQwemUyM2E4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/90Bgn8AA5MT7CmLMz5/giphy.gif" width="100%" alt="Tech Banner" />
 </p>
 
 <!-- Name + Typing Animation -->
