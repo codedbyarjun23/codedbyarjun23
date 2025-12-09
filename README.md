@@ -1,18 +1,33 @@
-<!-- Banner -->
+<!-- Top Banner GIF -->
+<p align="center">
+  <img src="https://media2.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif" width="100%" alt="Tech Banner" />
+</p>
+
+<!-- Name + Typing Animation -->
 <h1 align="center">
   👋 Hey, I'm <span style="color:#00BFFF;">Arjun Raj</span>
 </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;MERN+%7C+PostgreSQL+%7C+MongoDB;Building+clean+and+modern+web+experiences" alt="Typing SVG" />
+</p>
+
+<!-- Badges Row -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Theme-Dark%20Glassmorphism-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-1d4ed8?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tech-MERN%20%7C%20PostgreSQL%20%7C%20MongoDB-22c55e?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=codedbyarjun23&style=for-the-badge&color=8b5cf6&label=Profile+Views" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-<p align="center">
-<b>Full Stack Web Developer</b> | <b>CSE @ Lovely Professional University</b><br><br>
-Passionate about building clean, functional, and user-focused web apps.<br>
-Currently exploring modern frameworks, improving backend architecture,<br>
-and sharpening my problem-solving skills.
-</p>
+> **Full Stack Web Developer** | **CSE @ Lovely Professional University**  
+> Passionate about building clean, functional, and user-focused web apps.  
+> Currently exploring modern frameworks, improving backend architecture,  
+> and sharpening my problem-solving skills.
 
 ---
 
@@ -55,23 +70,40 @@ and sharpening my problem-solving skills.
 
 ## ⚙️ Workflow
 
-<p align="center">
-<i>learn → build → refine → repeat</i><br>
-Minimalistic, scalable, and user-friendly development.
-</p>
+> _learn → build → refine → repeat_  
+> Minimalistic, scalable, and user-friendly development.
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codedbyarjun23&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
-  <img src="https://streak-stats.demolab.com?user=codedbyarjun23&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
-</p>
+> ✨ Glassy gradient cards, dark theme & centered layout.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyarjun23&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
-</p>
+<div align="center">
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=codedbyarjun23&show_icons=true&theme=tokyonight&bg_color=0d1117,020617,020617&title_color=38bdf8&text_color=cbd5f5&icon_color=38bdf8&border_color=1f2937&border_radius=18" 
+    height="170"
+    alt="GitHub Stats"
+  />
+
+  <img 
+    src="https://streak-stats.demolab.com?user=codedbyarjun23&theme=tokyonight&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=FFFFFF&border=1F2937&stroke=00000000" 
+    height="170"
+    alt="GitHub Streak"
+  />
+
+</div>
+
+<div align="center">
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyarjun23&layout=compact&theme=tokyonight&bg_color=0d1117,020617,020617&title_color=38bdf8&text_color=cbd5f5&border_color=1f2937&border_radius=18" 
+    height="170"
+    alt="Top Languages"
+  />
+
+</div>
 
 ---
 
