@@ -1,6 +1,6 @@
 <!-- Top Banner GIF -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXl5N3A3dWdudGMyanU5YTlzZGxseTB4MXA0YjR4aXQwemUyM2E4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/90Bgn8AA5MT7CmLMz5/giphy.gif" width="100%" alt="Tech Banner" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTI0Z3A3b2h3MmpzNWwyZ244bmdyZXdxcnBvbG01dGw1emxwNnNxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1t5IHI4c59XinYAJQ3/giphy.gif" height="300" width="100%" alt="Tech Banner" />
 </p>
 
 <!-- Name + Typing Animation -->
@@ -14,7 +14,6 @@
 
 <!-- Badges Row -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Theme-Dark%20Glassmorphism-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Web%20Development-1d4ed8?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tech-MERN%20%7C%20PostgreSQL%20%7C%20MongoDB-22c55e?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=codedbyarjun23&style=for-the-badge&color=8b5cf6&label=Profile+Views" />
@@ -24,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-> **Full Stack Web Developer** | **CSE @ Lovely Professional University**  
+> **Full Stack Web Developer** | **Computer Science Student**  
 > Passionate about building clean, functional, and user-focused web apps.  
 > Currently exploring modern frameworks, improving backend architecture,  
 > and sharpening my problem-solving skills.
